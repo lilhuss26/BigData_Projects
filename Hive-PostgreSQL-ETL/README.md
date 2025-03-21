@@ -1,4 +1,4 @@
-# Hive-PostgreSQL-DWH
+# Hive-PostgreSQL-ETL
 Warehousing data to Hive applying ETL to use PostgreSQL, and create a Superset dashboard.
 ## Data 
 The used data is [Fifa 21 Dataset](https://www.kaggle.com/datasets/kumudini77/cleaned-fifa-21-player-dataset)       

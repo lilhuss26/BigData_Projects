@@ -2,8 +2,8 @@
 This repository showcases my **Big Data** projects, covering **data engineering, machine learning, and real-time processing** using technologies like **Apache Spark, Hive, PostgreSQL, MongoDB, and more**. It also demonstrates my experience working with platforms such as **Hadoop, Azure Databricks, MongoDB Atlas, and Docker**.
 
 ## Projects
-[Hive PostgreSQL ETL](https://github.com/lilhuss26/BigData_Projects/tree/main/Hive-PostgreSQL-ETL):  Data warehousing using Hadoop Hive and an ETL pipeline in Python for PostgreSQL.
-[LSTM Stream Prediction](https://github.com/lilhuss26/BigData_Projects/tree/main/LSTM-PySpark-Stream-Prediction): LSTM-based time-series sales prediction with real-time data processing using `PySpark` Streaming.
+[Hive PostgreSQL ETL](https://github.com/lilhuss26/BigData_Projects/tree/main/Hive-PostgreSQL-ETL):  Data warehousing using Hadoop Hive and an ETL pipeline in Python for PostgreSQL.\
+[LSTM Stream Prediction](https://github.com/lilhuss26/BigData_Projects/tree/main/LSTM-PySpark-Stream-Prediction): LSTM-based time-series sales prediction with real-time data processing using `PySpark` Streaming.\
 [Spark MLlib Mongodb](https://github.com/lilhuss26/BigData_Projects/tree/main/Spark-MLlib-Mongodb):Deploying a machine learning model using `PySpark` and MongoDB collections
 
 ## Technologies
